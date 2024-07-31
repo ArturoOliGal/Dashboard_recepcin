@@ -1,8 +1,9 @@
-numpy
+lxml
 streamlit
 pandas
 seaborn
-potly
+numpy
+plotly
 matplotlib
-lxml
+seaborn
 scipy
